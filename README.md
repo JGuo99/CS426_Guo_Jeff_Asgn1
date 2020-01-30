@@ -1,5 +1,5 @@
 # CS426_Guo_Jeff_Asgn1
-What home means to me is where I spent my childhood. I am from Brooklyn so for all the house I made in the game is identical and close to each other. The house at the corner is purposely made large because that is where my house is in real life. The mountains behind the houses represents Manhattan (tall skyscrapers) and the green is Central Park. The road that leads to the park is Prospect Park, where I used to run every day when I lived in NY.
+What home means to me is where I spent my childhood. I am from Brooklyn so for all the houses I made in the game is identical and close to each other. The house at the corner is purposely made large because that is where my house is located in real life. The mountains behind the houses represents Manhattan (tall skyscrapers) and the greens is Central Park. The road that leads to the park is Prospect Park, where I used to run every day when I lived in NY.
 
 Resources:
 Assests from Unity Store:
